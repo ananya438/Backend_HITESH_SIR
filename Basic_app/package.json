@@ -1,0 +1,19 @@
+{
+  "name": "basic_app",
+  "version": "1.0.0",
+  "description": "basic app deployment ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "Ananya",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^18.0.7",
+    "express": "^5.3.0"
+  }
+}
